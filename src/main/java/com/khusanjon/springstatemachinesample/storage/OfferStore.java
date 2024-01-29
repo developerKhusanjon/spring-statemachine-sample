@@ -12,4 +12,8 @@ public class OfferStore {
     public void store(Offer offer) {
 
     }
+
+
+
+
 }
