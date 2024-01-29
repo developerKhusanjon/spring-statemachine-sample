@@ -4,6 +4,7 @@ import com.khusanjon.springstatemachinesample.context.ContextValue;
 import com.khusanjon.springstatemachinesample.domain.offer.Offer;
 import com.khusanjon.springstatemachinesample.domain.offer.OfferEvent;
 import com.khusanjon.springstatemachinesample.domain.offer.OfferState;
+import com.khusanjon.springstatemachinesample.storage.OfferStore;
 import lombok.AllArgsConstructor;
 import org.springframework.messaging.Message;
 import org.springframework.statemachine.StateMachine;
